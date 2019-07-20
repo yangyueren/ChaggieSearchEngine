@@ -3,6 +3,7 @@
 ### General
 
 This project is a  hot word search engine. It crawls the images from the [chicken dictionary](https://jikipedia.com/), [bilibli](https://www.bilibili.com/) and Weibo. We integrate the data and stored it into Elasticsearch (a distributed search engine based on lucene) for retrieval. This project currently supports advanced features such as smart recommendation, multi-dimensional sorting, and image searching.
+The code in this respository only contains the backend and the api. If you are interested in the front-end and the designing style, please visit https://github.com/Sylvie-Hsu/Chaggie .
 
 ### Version
 
@@ -77,5 +78,5 @@ And you can also watch the demo video from  https://www.bilibili.com/video/av599
 
 ### Authors
 
-This project is developed by four persons, they are @[Sylvie-Hsu](https://github.com/Sylvie-Hsu) @[Riroaki](https://github.com/Riroaki) @[Richard_Jei](https://github.com/Sossmc) @[yangyueren](https://github.com/yangyueren)
+This project is developed by four persons, they are @[Sylvie-Hsu](https://github.com/Sylvie-Hsu) @[Riroaki](https://github.com/Riroaki) @[Richard_Jei](https://github.com/Sossmc) @[yangyueren](https://github.com/yangyueren).
 In the project, I take responsibility for backend development and elasticsearch.
