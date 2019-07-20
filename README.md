@@ -78,3 +78,4 @@ And you can also watch the demo video from  https://www.bilibili.com/video/av599
 ### Authors
 
 This project is developed by four persons, they are @[Sylvie-Hsu](https://github.com/Sylvie-Hsu) @[Riroaki](https://github.com/Riroaki) @[Richard_Jei](https://github.com/Sossmc) @[yangyueren](https://github.com/yangyueren)
+In the project, I take responsibility for backend development and elasticsearch.
