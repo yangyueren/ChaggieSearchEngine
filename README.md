@@ -49,11 +49,11 @@ We used six aliyun or tencent servers. Three are for ES and two for the picture 
 
 ![3](pictures/3.png)
 
-4. And this is the result, and you an sort it in different dimensions.
+4. This is the result, and you an sort it in different dimensions.
 
 ![4](pictures/4.png)
 
-![5](pictures/4.png)
+![5](pictures/5.png)
 
 
 
