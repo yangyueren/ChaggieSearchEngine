@@ -1,0 +1,26 @@
+{
+    "id":56,
+    "name":"可控核聚变",
+    "time":"2017-06-15",
+    "image":"",
+    "view":2600,
+    "like":20,
+    "dislike":0,
+    "tagList":[
+        "原子能",
+        "科技",
+        "物理",
+        "能源"
+    ],
+    "content":"一个多世纪以来，距离人类一直只有五十年的先进能源技术。 ",
+    "imageList":[
+        "data/google_image/可控核聚变/5.4pq51s55q54947o6801953591o4933or.jpg",
+        "data/google_image/可控核聚变/4.v2-7ccd2340f77c1516b8243f18fa2ed1bf_1200x500.jpg",
+        "data/google_image/可控核聚变/3.v2-aacd887d940b9e71ae5d35af6e90de87_qhd.jpg",
+        "data/google_image/可控核聚变/1.v2-89269a0e7b76bce3dacabef2b4fecd9f_1200x500.jpg",
+        "data/google_image/可控核聚变/2.2C7CC4786C0F28E9AFFA39B045708F8763F551B8_size66_w640_h360.jpeg"
+    ],
+    "videoList":[],
+    "weiboList":[],
+    "wordCloud":"data/wordcloud/可控核聚变.png"
+}

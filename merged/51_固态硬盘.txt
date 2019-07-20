@@ -1,0 +1,24 @@
+{
+    "id":51,
+    "name":"固态硬盘",
+    "time":"2017-06-15",
+    "image":"",
+    "view":3500,
+    "like":28,
+    "dislike":1,
+    "tagList":[
+        "科技",
+        "电子"
+    ],
+    "content":"不需要转的硬盘。或者说是大号的优盘。特点是稳定，快速，贵。对应的是液态机械硬盘：会转的以磁碟为主要存储介质硬盘。 ",
+    "imageList":[
+        "data/google_image/固态硬盘/4.5906de8cN7df5e49c.png",
+        "data/google_image/固态硬盘/5.v2-528398524f72793aba9b267b88db8f2c_1200x500.jpg",
+        "data/google_image/固态硬盘/3.ChMkJ1YCIjaIeElWAAQGVCoGDtAAAC7iwOt8EkABAZs709.png",
+        "data/google_image/固态硬盘/1.8cb1cb1349540923bf0169989258d109b2de49ef.jpg",
+        "data/google_image/固态硬盘/2.220px-SSD_mPCIe_IMGP1268_wp.jpg"
+    ],
+    "videoList":[],
+    "weiboList":[],
+    "wordCloud":"data/wordcloud/固态硬盘.png"
+}
