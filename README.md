@@ -30,7 +30,7 @@ We used six aliyun or tencent servers. Three are for ES and two for the picture 
 1. You need to first configure your elasticseatch
 2. You should create the index in the ES using the command in es_command.md
 4. Configure the port and index of es, mongoldb in the project file resources/application.properties
-5. Now you can run the project in IntelliJ IDEA.
+5. Now you can create a project in IntelliJ IDEA and import the files of src and pom.xml
 5. I only give some data examples in the folder *merged*. Sorry about that I can't offer all the 6400 entries and 10w+ picutures.
 
 
