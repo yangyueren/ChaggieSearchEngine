@@ -61,7 +61,7 @@ We used six aliyun or tencent servers. Three are for ES and two for the picture 
 
 ![6](pictures/6.png)
 
-6. The final is the picuture search.
+6. Finally, the picuture search.
 
 ![7](pictures/7.png)
 
