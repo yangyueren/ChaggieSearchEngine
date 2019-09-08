@@ -3,7 +3,7 @@
 ### General
 
 This project is a  hot word search engine. It crawls the images from the [chicken dictionary](https://jikipedia.com/), [bilibli](https://www.bilibili.com/) and Weibo. We integrate the data and stored it into Elasticsearch (a distributed search engine based on lucene) for retrieval. This project currently supports advanced features such as smart recommendation, multi-dimensional sorting, and image searching.
-The code in this respository only contains the backend and the api. If you are interested in the front-end and the designing style, please visit https://github.com/Sylvie-Hsu/Chaggie .
+The code in this respository only contains the backend and the api. If you are interested in the front-end and the designing style, please visit https://github.com/Sylvie-Hsu/Chaggie . And the code of crawler is in the repository https://github.com/Riroaki/Meme-Crawler
 
 ### Version
 
